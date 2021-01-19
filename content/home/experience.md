@@ -22,24 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Scientific Employee
+    company: Analytic Computing Department, University of Stuttgart
+    company_url: 'https://www.ipvs.uni-stuttgart.de/departments/ac/'
+    location: Stuttgart
+    date_start: '2020-04-20'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Eye tracking
+        * Universal application development
+        * Machine learning
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Senior Full-stack Web Developer
+    company: Union Betriebs-GmbH
+    company_url: 'https://www.ubgnet.de/'
+    location: Rheinbach
+    date_start: '2016-08-15'
+    date_end: '2020-03-34'
+    description: |2-
+        I developed a REST API which consumes multiple REST, SOAP and JavaScript APIs and connects several of company's main services.
+        I implemented a dynamic Amazon Alexa skill, a rule repository application and was entrusted with the task of implementing the personal website of Chancellor of Germany, Angela Merkel.
+
+     
 ---
