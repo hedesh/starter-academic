@@ -40,7 +40,7 @@ experience:
     company_url: 'https://www.ubgnet.de/'
     location: Rheinbach
     date_start: '2016-08-15'
-    date_end: '2020-03-34'
+    date_end: '2020-03-31'
     description: |2-
         I developed a REST API which consumes multiple REST, SOAP and JavaScript APIs and connects several of company's main services.
         I implemented a dynamic Amazon Alexa skill, a rule repository application and was entrusted with the task of implementing the personal website of Chancellor of Germany, Angela Merkel.
