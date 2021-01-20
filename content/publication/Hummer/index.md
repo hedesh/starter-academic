@@ -11,7 +11,7 @@ authors:
 - Steffen Staab
 
 # Author notes (optional)
-author_notes:
+author_notes: ""
 
 date: "2021-04-01T00:00:00Z"
 doi: "https://doi.org/10.1145/3411764.3445501"
