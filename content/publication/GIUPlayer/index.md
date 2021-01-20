@@ -11,7 +11,7 @@ authors:
 - Steffen Staab
 
 # Author notes (optional)
-author_notes:
+author_notes: ""
 
 date: "2020-06-01T00:00:00Z"
 doi: "https://doi.org/10.1145/3379157.3391984"
@@ -32,7 +32,7 @@ publication_short: ETRA '20
 abstract: We developed a gaze immersive YouTube player, called GIUPlayer, with two objectives. First to enable eye-controlled interaction with video content, to support people with motor disabilities. Second to enable the prospect of quantifying attention when users view video content, which can be used to estimate natural viewing behaviour. In this paper, we illustrate the functionality and design of GIUPlayer, and the visualization of video viewing pattern. The long-term perspective of this work could lead to the realization of eye control and attention based recommendations in online video platforms and smart TV applications that record eye tracking data.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 
 tags: []
 
