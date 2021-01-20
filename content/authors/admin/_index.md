@@ -40,11 +40,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: stackoverflow
+  icon_pack: ai
+  link: https://stackoverflow.com/users/2714900/hedeshy
+- icon: acm #graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://dl.acm.org/profile/99659526501
 - icon: github
   icon_pack: fab
@@ -71,4 +71,4 @@ I am a Ph.D. student and scientific employee of the AC department of Stuttgart U
 
 Currently, I work on the ZIM-funded project MICME: Multimodal interaction and collaboration In Medical Environments. The project is about combining eye tracking with modalities to support surgeons in complex operations. My research is about multimodal interaction combining eye tracking with touch or non-lexical voice input. I have published papers at ACM showcasing a novel method of eye typing at ACM CHI and ACM ETRA. I am also a tutor of the HCIIR and the Machine Learning course at the University of Stuttgart and supervise student theses. Before pursuing my Ph.D., I have gained 7 years of industry experience working for companies such as Bliksund in Norway and the Union Betriebs-GmbH in Bonn. Among other Web-oriented IT projects, I have developed a rules repository system for CDU and implemented the personal homepage of Angela Merkel.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ramin_hedeshy_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "RaminHedeshy_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
