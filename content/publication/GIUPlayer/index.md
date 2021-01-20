@@ -74,7 +74,9 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+# Supplementary notes can be added after the --- , including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 ---
 
 
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
